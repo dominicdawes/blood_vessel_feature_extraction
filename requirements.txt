@@ -1,0 +1,14 @@
+numpy
+sklearn
+pandas
+matplotlib
+pillow
+opencv-python
+fil_finder
+numpy >= 1.7.1
+astropy >= 0.4.0
+scipy
+skan
+skimage
+networkx
+numba
